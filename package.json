@@ -1,8 +1,8 @@
 {
   "name": "ps-redux",
-  "description": "React and Redux Pluralsight course by Cory House",
+  "description": "Svenaeus-web-app",
   "scripts": {
-    "start": "webpack-dev-server --config webpack.config.dev.js  --port 3010"
+    "start": "webpack-dev-server --config webpack.config.dev.js  --port 3011"
   },
   "dependencies": {
     "bootstrap": "4.3.1",
